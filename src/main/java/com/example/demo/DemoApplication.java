@@ -17,5 +17,4 @@ public class DemoApplication {
 	public String printHello() {
 		return "Hello Action!!";
 	}
-
 }
